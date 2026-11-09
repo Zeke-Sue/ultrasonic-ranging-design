@@ -1,0 +1,6 @@
+target_distance_m,absolute_error_cm,source
+0.2,0.3,Table 4.7
+0.75,1.4,Table 4.7
+1.0,2.6,Table 4.7
+0.04,1.4,Table 4.7 nearest distance
+2.0,10,Table 4.7 farthest distance
